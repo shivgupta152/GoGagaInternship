@@ -9,7 +9,7 @@ function appendHtml() {
     // var node = document.createTextNode()
     for(var i=0;i<arrays.length;++i) {
         var card = document.createElement('div');
-        card.setAttribute('id', 2)
+        card.setAttribute('id', arrays[i].id)
         card.classList.add("card")
         card.classList.add("col-md-3")
 

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf5ee69f-01d5-429f-8e2e-e76e3cc2f2ce" name="Default Changelist" comment="" />
+    <list default="true" id="cf5ee69f-01d5-429f-8e2e-e76e3cc2f2ce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/addUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/addUser.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -64,8 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/addUser.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+            <state relative-caret-position="34">
+              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -96,10 +98,10 @@
         <option value="$PROJECT_DIR$/caros.css" />
         <option value="$PROJECT_DIR$/caros.js" />
         <option value="$PROJECT_DIR$/server.js" />
-        <option value="$PROJECT_DIR$/addUser.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/addUserForm.html" />
         <option value="$PROJECT_DIR$/userCards.css" />
+        <option value="$PROJECT_DIR$/addUser.js" />
       </list>
     </option>
   </component>
@@ -190,12 +192,12 @@
       <workItem from="1590045042035" duration="5157000" />
       <workItem from="1590051063568" duration="8834000" />
       <workItem from="1590067047214" duration="3448000" />
-      <workItem from="1590136491876" duration="21019000" />
+      <workItem from="1590136491876" duration="21590000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38458000" />
+    <option name="totallyTimeSpent" value="39029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -331,8 +333,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/addUser.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        <state relative-caret-position="34">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
         </state>
       </provider>
     </entry>

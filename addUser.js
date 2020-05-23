@@ -2,7 +2,7 @@
 appendHtml()
 function appendHtml() {
 
-   fetch('http://localhost:5000/getdata').then(data => data.json()).then(data =>{
+   fetch('https://fast-savannah-12571.herokuapp.com/getdata').then(data => data.json()).then(data =>{
        arrays=data
      //append new col
     var x = document.getElementById("rows")

@@ -1,6 +1,37 @@
 .card{
-    margin-left: 5px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    margin-left: 10px;
     margin-bottom: 10px;
     border-radius: 10px;
     box-shadow: black ;
+}
+.card-title {
+
+    display: inline;
+
+}
+.card .card-img-top{
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+form{
+    border: 2px solid black;
+    margin-top: 12%;
+    margin-bottom: 10px;
+}
+
+.form-group{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#toprow{
+    margin-top: 2%;
+}
+#bottomrow{
+    margin-bottom: 2%;
+    margin-left: 2%;
 }

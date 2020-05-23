@@ -3,7 +3,7 @@ const app = express()
 const MongoClient = require('mongodb').MongoClient
 var assert = require('assert');
 
-const url = 'mongodb+srv://Shivam:Shivam123@cluster0-vry4e.mongodb.net/test?retryWrites=true&w=majority';
+const url = 'mongodb+srv://Shivam:Shivam123@cluster0-vry4e.mongodb.net/userInfodb?retryWrites=true&w=majority';
 const Mongo = new  MongoClient(url,{ useUnifiedTopology: true })
 app.use(express.urlencoded({extended : true}));
 app.use(express.json());

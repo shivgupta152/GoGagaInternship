@@ -2,11 +2,11 @@
     display: flex;
     justify-content: space-around;
     margin-top: 10px;
-    margin-left: 10px;
+    margin-left: 20px;
     margin-bottom: 10px;
     border-radius: 10px;
     box-shadow: black ;
-    margin-right: 10px;
+    margin-right: 20px;
 }
 .card-title {
 
